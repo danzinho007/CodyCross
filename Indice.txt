@@ -1,99 +1,68 @@
-Índice :
-01-Animais         / 11-Cultura     / 21-Inglês     / 31-
-02-Arte            / 12-Doença      / 22-Inventor   / 32-
-03-Atriz           / 13-Escola      / 23-Mercado    / 33-
-04-Capital cidade  / 14-Esportes    / 24-Moda       / 34-
-05-Capital país    / 15-Esportes    / 25-Mundo      / 35-
-06-Carro           / 16-Esportes    / 26-Música     / 36-
-07-Cidade          / 17-Filme       / 27-Navio      / 37-
-08-Comida          / 18-Frases      / 28-País       / 38-
-09-Crime           / 19-Frutas      / 29-Personagem / 39-
-10-Cultivo         / 20-Informática / 30-Política   / 40-
-
 Questões
 
 01-Animais
-Mamífero Também Chamado De Tamanduá Palito
 02-Arte
-Famoso cartunista brasileiro = Henfil 
 03-Atriz 
-Tatiana _ atriz que virou diretora premiada
 04-Capital de cidade :
-França : Hauts-de-France = Lille
 05-Capital de país : 
-Agana = Guam
-Etiópia = Adis Adeba
 06-Carro
-Marca brasileira de carros esportivos
 07-Cidade :
-MG = Aquilo que é belo na capital de Minas Gerais
-MG = Montes _ , cidade de Minas Gerais
-MG = Serra do _ 
-EUA = Famosa por suspostas bruxas : Salem
-EUA = Parque de Orlando com pavilhões de países 
-?? = Centro histório desta região é Cherdyn
 08-Comida típica
-Tailandesa = Pad thai
 09-Crime
-Yasser _, líder da Palestina até 2004
 10-Cultivo
 Cultiva apuro e esmero = Alinho
 
-11-Cultura 
+10-Cultura 
 _ Negra, personagem das histórias do Homem-Aranha
-12-Doenças
+
+10-Doenças
 Doença __, lúpus, psoríase e vitiligo são exemplos
-13-Escola
-Mies vand der _, último diretor da Bauhaus
-14-Esportes 
-Canoagem
-Handebol
-Futebol
-Futebol Americano
-Golfe
-Pinball
-Sinuca
-Tênis de mesa
-Windsurf
-15-Esportes : Futebol Americano
+
+10-Esportes : Futebol Americano
 _ Cardinals, famoso time
-16-Esportes : Golfe
+
+10-Esportes : Golfe
 Local do campo de golfe onde fica o buraco (Ing) = Green
-17-Filme 
+
+11-Filme 
 _ de Aluguel, filme de Quintin Tarantino = Cães
 __ no Ombro, clássica gravação de Almir Sater = 
 Estão bem fechados no filme de Stanly Kubrick = Olhos
 Fime de 2013 com Christian Bale e Bradley Cooper
 Filme musical com Christina Aguilera e Cher
-The Cotton _, filme de Coppola ( ing )
-18- Frases
+
+12- Frases
 Diz-se que é errador fazer do lobo guardião delas
-19-Frutas
+
+13-Frutas
 a fruta da arvore sagrada do sertao brasileiro
 Como é chamado o verdadeiro fruto do caju
-20-Informática
+
+14-Informática
 Elementos que formam uma imagem digital = Pixel
 Sigla que designa um endereço de um site
 
-21-Inglês
-Consertar = Fix
+15-Inglês
 Navio = Ship
 Vaca = Cow
-22-Inventor :
+
+16-Inventor :
 Fraldas Descartáveis 
-23-Mercado
-Fundo de Índice comercializado na bolsa de valores
-Fundos de índice, também conhecidos como ETFs (Exchange Traded Funds), são investimentos que reúnem ações para replicar a rentabilidade de um índice de referência. 
+
+17-Mercado
 TED	DOC
 Dinheiro cai no mesmo dia se realizada até às 17h	Dinheiro cai no dia seguinte, mas pode levar mais tempo caso seja feito após às 22h
 Permite transferências maiores do que R$5.000	O valor máximo é de R$ 4.999,99
 Não há valor mínimo	Não há valor mínimo
 Segue ativa, mesmo com o crescimento do Pix	Vai parar de operar em fevereiro de 2024
-24-Moda :
+
+17-Moda :
 Yves Saint _, marca de luxo da moda francesa
-25-Mundo
+
+18-Mundo
 Massa continental que engloba a Ásia e a Europa
-26-Música :
+
+18-Música :
 _ da Vida, sucesso de Millionário e José Rico
 __ São João, tradicional música junina
 Cidade inglesa onde surgiram os Beatles 
@@ -102,24 +71,29 @@ Disco do grupo Black Moon, _ da Stage
 Forever _, música de Alphaville 1984
 O Fernando que fez parte do Clube da Esquina = Brant
 Sucesso mundial do grupo Lost Del Rio de 1993 
-27-Navio :
+
+19-Navio :
 Oficina onde se consertam navios =
-28-País Irlanda
+
+19-País Irlanda
 Nome gaélico da Irlanda
-29-Persoangem
+
+20-Persoangem
 _ Rogers, identidade do Capitão América
-30-Política
+
+21-Política
 Caras _ , movimento famoso no governo Collor
 
-31-Português :
+22-Português :
 Ele também é conhecido como relógio de areia
 Existe em grande quantidade, com fartura
 Mole, macio = Fofo
 Oposto de além = 
-32-Queijo
+
+23-Queijo
 Queijo cremoso apreciado com nozes e frutas = Brie
 
-33-Religião
+24-Religião
 Bisavó de Davi = 
 Filho de Isaac = 
 
@@ -135,12 +109,8 @@ ANS
 CETESB
 ICMS
 
-27-Sinônimos
-Triufante, ovante
-
 27-TV
 _ da Moda, reality show com Isabella Fiorentino
-
 
 -Grupo dinamarquês que criou Barbie Girl
 -Minissérie estrelada por Richard Chamberlain em 1980
