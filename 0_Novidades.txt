@@ -3,4 +3,5 @@ CodyCross_Novidades
 1-Criado arquivo Novidades
 2-Hoje eu volto
 3-Instalando
-4-
+4-Voltei com várias novidades no aplicativo
+5-
